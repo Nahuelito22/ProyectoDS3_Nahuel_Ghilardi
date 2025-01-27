@@ -22,10 +22,10 @@ Como un apasionado del ajedrez y estudiante de ciencia de datos, este proyecto n
 
 ### Archivos Principales  
 
-1. **`notebook_analisis.ipynb`**  
+1. **`ProyectoDS3_Nahuel_Ghilardi`**  
    - Contiene el análisis exploratorio del dataset, la filtración de datos y el uso de técnicas de NLP para encontrar patrones.  
 
-2. **`notebook_rnn.ipynb`**  
+2. **`ProyectoDS3_RNN_Nahuel_Ghilardi.ipynb`**  
    - Aquí se realiza la creación del embedding personalizado, el diseño de la RNN y la estructuración de los módulos necesarios para su ejecución.  
 
 ### Datos  
